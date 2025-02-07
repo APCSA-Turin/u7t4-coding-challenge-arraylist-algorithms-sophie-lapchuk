@@ -402,7 +402,7 @@ public class Main{
     return modes;
         
     }
-    git
+ 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>(Arrays.asList(1, 2, 5, 4, 2, 2, 1, 6, 4, 4, 8, 1, 7, 4, 2));
         ArrayList<Integer> expected = new ArrayList<Integer>(Arrays.asList(1, 2, 5, 4, 6, 8, 7));
